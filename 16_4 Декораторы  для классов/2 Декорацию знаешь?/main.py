@@ -35,3 +35,4 @@ a = A()
 
 a.method1()
 
+print('Hello')
